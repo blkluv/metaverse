@@ -1,8 +1,8 @@
 
 # METAPLEX
 A VIRTUAL METAVERSE
-STADIUM 😎
-<br/>Live Link: https://arcade-experiments.vercel.app/
+ 
+<br/>Live Link: https://metaverse.arvrtise.com
 
 ## A Brief Introduction 📖
 
@@ -16,10 +16,10 @@ avatars.
 
 ## Our Offerings 🎁
 
-Presently online streaming of sports event is very popular.
-The problem is we miss out interactions with fans. Sports is more 
-fun and interactive with friends. This will bring a stadium like feel.
-Metaverse will bridge the gap between smartphone screen and actual stadium.
+Presently online marketing a business is limited with intent to 
+force business owners to pay for PPC to reach their own followers.
+Metaverse will bridge the gap between smartphone screen and actual 
+network events.
 
 ## Roadmap 🗺️
 
@@ -47,12 +47,4 @@ Metaverse will bridge the gap between smartphone screen and actual stadium.
 - Building Reddit like platform where there will be multiple metaverse
   for multiple community.
 
-## Installation and setup ⚙️
-1. Install dependencies
- ```
-npm install
- ```
-2. Run the project 
-```
-npm run dev
- ```
+ 
